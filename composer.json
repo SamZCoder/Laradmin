@@ -1,0 +1,21 @@
+{
+    "name": "codersam/laradmin",
+    "description": "AdminLTE Template for Laravel Projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samer Moustafa",
+            "email": "coder.sam@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CoderSam\\Laradmin\\LaradminServiceProvider"
+            ]
+        }
+    }
+}
